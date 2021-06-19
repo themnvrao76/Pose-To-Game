@@ -9,7 +9,7 @@ import pydirectinput
 time.sleep(20)
 
 def x():
-	pydirectinput.press('x')xz
+	pydirectinput.press('x')
 def z():
 	pydirectinput.press('z')
 def right():
